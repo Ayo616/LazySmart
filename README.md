@@ -1,0 +1,2 @@
+# LazySmart
+machine learning 
